@@ -1,6 +1,6 @@
 # LeNet MNIST
 
-This project is a simple implementation of the LeNet architecture, written in PyTorch, proposed in: LeCun, Y.; Bottou, L.; Bengio, Y. & Haffner, P. (1998). Gradient-based learning applied to document recognition. The network is trained on the MNIST handrawn numbers dataset.
+This project is a simple implementation of the LeNet architecture, written in PyTorch, proposed in: LeCun, Y.; Bottou, L.; Bengio, Y. & Haffner, P. (1998). _Gradient-based learning applied to document recognition_. The network is trained on the MNIST handrawn numbers dataset.
 
 ## Loss function
 
