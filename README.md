@@ -11,7 +11,9 @@ The loss function of choice is the Cross Entropy loss function
 The algorithm used for optimization is the Adam optimizer
 
 ## Architecture
+
 ![image](https://github.com/AlexanderJernstrom/lenet-mnist/assets/46424392/1563ffc8-8a95-456f-bf77-d7bf5db755ab)
-Image comes from wikipedia: 
+Image comes from wikipedia:
 https://en.wikipedia.org/wiki/LeNet#/media/File:Comparison_image_neural_networks.svg
 
+The code implements the architecture highlighted in LeNet part of the image.
