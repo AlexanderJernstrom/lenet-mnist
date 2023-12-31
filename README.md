@@ -17,3 +17,6 @@ Image comes from wikipedia:
 https://en.wikipedia.org/wiki/LeNet#/media/File:Comparison_image_neural_networks.svg
 
 The code implements the architecture highlighted in LeNet part of the image.
+
+## Results
+This architecture reached on an M2 Pro 97.3% accuracy on the MNIST dataset
